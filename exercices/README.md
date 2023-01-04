@@ -1,3 +1,3 @@
-# DEVOPS
+# DEV-OPS
 
-- https://github.com/bregman-arie/devops-exercises
+- [bregman-arie](https://github.com/bregman-arie/devops-exercises)
